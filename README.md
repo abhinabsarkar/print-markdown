@@ -7,4 +7,4 @@ pip install grip
 grip <your_markdown.md>
 ```
 ## Atom
-Download [Atom (free)](atom.io), open your file in Atom, use control + shift+ M to view it in preview, save as html, then open the html in your Chrome browser and save as pdf.
+Download [Atom (free)](https://atom.io/), open your file in Atom, use control + shift+ M to view it in preview, save as html, then open the html in your Chrome browser and save as pdf.
